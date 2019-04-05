@@ -1,7 +1,9 @@
 <template>
-    <div>
-        <nav-top>
-        </nav-top>
+    <div class="container-fluid">
+        <div class="row mr-5">
+            <nav-top class="col-12">
+            </nav-top>
+        </div>
         <article-preview>
         </article-preview>
     </div>
